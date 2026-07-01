@@ -1,8 +1,9 @@
 # Zeno Trader — "Road to 7-Figures"
 
-A full-stack options-trading journal and analytics dashboard built to replace TradeZella with a
-faster, private, AI-assisted workflow. Every trade is logged, graded, and reviewed by Claude; all
-data lives locally in the browser (IndexedDB) with an optional read-only broker connection.
+A full-stack day-trading options journal and analytics dashboard — my own spin on TradeZella,
+rebuilt to mirror the workflow I actually trade, with a faster, private, AI-assisted feel. Every
+trade is logged, graded, and reviewed by Claude; all data lives locally in the browser (IndexedDB)
+with an optional read-only broker connection.
 
 > Built with **Next.js 16**, **React 19**, **TypeScript**, and **Claude** — designed, iterated, and
 > shipped end-to-end with Claude Code.
