@@ -5,8 +5,8 @@ rebuilt to mirror the workflow I actually trade, with a faster, private, AI-assi
 trade is logged, graded, and reviewed by Claude; all data lives locally in the browser (IndexedDB)
 with an optional read-only broker connection.
 
-> Built with **Next.js 16**, **React 19**, **TypeScript**, and **Claude** — designed, iterated, and
-> shipped end-to-end with Claude Code.
+> Built with **Next.js 16**, **React 19**, **TypeScript**, and **Claude**-powered trade reviews —
+> designed, built, and shipped end-to-end.
 
 ---
 
@@ -69,5 +69,4 @@ The app is fully usable without any keys — AI reviews and live positions simpl
 
 I wanted a trading journal that matched how I actually trade (options-only, setup-driven) and that
 could give me honest, structured feedback on every trade instead of a wall of numbers. It's also a
-demonstration of shipping a real, non-trivial full-stack app with Claude Code as the primary
-development partner.
+demonstration of designing and shipping a real, non-trivial full-stack app end-to-end.
